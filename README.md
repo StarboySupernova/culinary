@@ -1,6 +1,6 @@
 ![](./readmeImg/banner.png)
 
-# Shaif's Cuisine 👨‍🍳
+# Duke Cuisine 👨‍🍳
 
 **Live preview: [click me](http://shaif-s-cuisine.netlify.app)**
 
@@ -35,7 +35,7 @@ You can find all the starter files in `starter_files` branch. You can to go to t
 
 - Basic HTML, CSS
 
-## Developer team of Shaif's Cuisine
+## Developer team of Duke Cuisine
 
 - Shaif Arfan
 - Anwar saeed
